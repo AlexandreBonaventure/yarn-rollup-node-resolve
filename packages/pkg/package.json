@@ -1,0 +1,6 @@
+{
+  "name": "pkg",
+  "peerDependencies": {
+    "lodash": "^4.17.15"
+  }
+}

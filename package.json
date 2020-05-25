@@ -1,0 +1,12 @@
+{
+  "name": "yarn-node-resolve",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "dependenciesMeta": {
+    "@rollup/plugin-node-resolve": {
+      "unplugged": true
+    }
+  }
+}
